@@ -22,8 +22,13 @@
 
 ---
 
-## `$ whoami`
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%24+whoami;Full-Stack+Developer+%C3%97+DevSecOps+%C3%97+MLOps;Building+secure%2C+scalable+AI%2FML+infrastructure)](https://github.com/onthefox)
+
+</div>
+
+---
 **Full-Stack Developer** × **DevSecOps Engineer** × **MLOps Architect**
 
 Building secure, scalable AI/ML infrastructure and automation pipelines.
@@ -171,7 +176,6 @@ me = DevSecOpsEngineer()
 me.say_hi()
 ```
 
-![Visitor Count](https://profile-counter.glitch.me/onthefox/count.svg)
 
 **`// EOF`**
 
