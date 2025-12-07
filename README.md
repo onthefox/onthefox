@@ -1,4 +1,4 @@
-                  > **▌◄ ███ ▀█▀ ☰ ▐◗ ▞▚ █▄▄ ▀█▀ ▀▄▀ ███ ╚╣ ▛▄ ███ ▀█▀**
+### ▌◄ ███ ▀█▀ ☰ ▐◗ ▞▚ █▄▄ ▀█▀ ▀▄▀ ███ ╚╣ ▛▄ ███ ▀█▀
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=200&section=header&text=DevSec&fontSize=70&fontAlignY=35&desc=MLOps%20%7C%20Security&descAlignY=55&descAlign=50&animation=twinkling)
 ---
